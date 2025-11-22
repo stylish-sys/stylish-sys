@@ -3,7 +3,7 @@
 <!-- ============================================================ -->
 
 <!-- ===================== AI Futuristic Header ===================== -->
-<h1 align="center">🤖 Sunyong Lee — AI-Driven Web Engineer</h1>
+<h1 align="center">Sunyong Lee — AI-Driven Engineer</h1>
 <p align="center">
   <strong>Backend · DevOps · Automation · Clean Architecture</strong><br/>
   Engineering scalable systems with clarity, simplicity, and discipline.
