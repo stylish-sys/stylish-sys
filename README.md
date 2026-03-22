@@ -41,9 +41,9 @@
 #### 💳 Payment Ecosystem
 | Project | Stack | Description |
 |---------|-------|-------------|
-| **[pg-solution](https://github.com/stylish-sys/pg-solution)** | `Spring Boot` `Java` | PG 서버 — 결제/송금/입금감지 API |
-| **[pay-monitor](https://github.com/stylish-sys/pay-monitor)** | `Android` `Kotlin` | 결제 알림 실시간 캡처 & 서버 전송 |
-| **[contactDeposit](https://github.com/stylish-sys/contactDeposit)** | `Node.js` `Automation` | 연락처 기반 입금 자동화 |
+| **pg-solution** 🔒 | `Spring Boot` `Java` | PG 서버 — 결제/송금/입금감지 API |
+| **pay-monitor** 🔒 | `Android` `Kotlin` | 결제 알림 실시간 캡처 & 서버 전송 |
+| **contactDeposit** 🔒 | `Node.js` `Automation` | 연락처 기반 입금 자동화 |
 
 </td>
 <td width="50%">
@@ -51,8 +51,8 @@
 #### 🏪 SaaS Commerce
 | Project | Stack | Description |
 |---------|-------|-------------|
-| **[slecs](https://github.com/stylish-sys/slecs)** | `Spring Boot` `MyBatis` | Weaver Kit — 멀티테넌트 SaaS 커머스 |
-| **[slecs_app](https://github.com/stylish-sys/slecs_app)** | `Flutter` `Dart` | 멀티테넌트 쇼핑몰 앱 솔루션 |
+| **slecs** 🔒 | `Spring Boot` `MyBatis` | Weaver Kit — 멀티테넌트 SaaS 커머스 |
+| **slecs_app** 🔒 | `Flutter` `Dart` | 멀티테넌트 쇼핑몰 앱 솔루션 |
 
 </td>
 </tr>
@@ -63,8 +63,8 @@
 | Project | Stack | Description |
 |---------|-------|-------------|
 | **[claude-monitor](https://github.com/stylish-sys/claude-monitor)** | `Node.js` `React` | Claude 멀티에이전트 모니터링 대시보드 |
-| **[VideoDownloader](https://github.com/stylish-sys/VideoDownloader)** | `React Native` | 크로스플랫폼 비디오 다운로더 |
-| **[lineage-keymapper](https://github.com/stylish-sys/lineage-keymapper)** | `C++` `CMake` | 커스텀 키 리매퍼 |
+| **VideoDownloader** 🔒 | `React Native` | 크로스플랫폼 비디오 다운로더 |
+| **lineage-keymapper** 🔒 | `C++` `CMake` | 커스텀 키 리매퍼 |
 
 </td>
 <td>
