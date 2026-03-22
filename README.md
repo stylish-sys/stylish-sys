@@ -242,11 +242,6 @@ ai_tools:
 
 <br/><br/>
 
-<!-- GitHub Trophies -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=stylish-sys&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br/>
-
 <!-- Activity Graph -->
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=stylish-sys&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&area_color=58A6FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
