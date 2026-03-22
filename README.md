@@ -7,7 +7,7 @@
 <!-- Animated Typing Header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3E+Sunyong+Lee_;Backend+Architect+%7C+Payment+Systems+%7C+SaaS+Engineer)](https://git.io/typing-svg)
 
-`Feb 2020 ~` · 6년차 엔지니어 · 대전
+`Feb 2020 ~` · 7년차 엔지니어 
 
 <br/>
 
