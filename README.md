@@ -22,8 +22,7 @@
 ```js
 const sunyong = {
     started:    "2020.02",
-    experience: "6+ years",
-    location:   "Daejeon, KR 🇰🇷",
+    experience: "7+ years",
     companies:  3,
     role:       "Full-Stack Engineer & Technical Lead",
     philosophy: [
