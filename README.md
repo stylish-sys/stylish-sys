@@ -1,143 +1,175 @@
 <!-- ============================================================ -->
-<!--                     Stylish-sys GitHub Profile               -->
+<!--              stylish-sys · GitHub Profile                    -->
 <!-- ============================================================ -->
 
-<!-- ===================== AI Futuristic Header ===================== -->
-<h1 align="center">Sunyong Lee — AI-Driven Engineer</h1>
-<p align="center">
-  <strong>Backend · DevOps · Automation · Clean Architecture</strong><br/>
-  Engineering scalable systems with clarity, simplicity, and discipline.
-</p>
+<div align="center">
 
-<!-- ===================== Badges ===================== -->
-<p align="center">
+# `> Sunyong Lee_`
 
-<!-- Role / Status -->
-<img src="https://img.shields.io/badge/Role-Web%20Engineer-informational" />
-<img src="https://img.shields.io/badge/Focus-Backend%20%26%20DevOps-informational" />
-<img src="https://img.shields.io/badge/Experience-5%2B%20years-success" />
-<img src="https://img.shields.io/badge/Operating_Experience-3_companies-ff69b4" />
-<img src="https://img.shields.io/badge/Base-KR-blue" />
-<img src="https://img.shields.io/badge/Available%20For-Collaboration-brightgreen" />
+**Backend Architect · Payment Systems · SaaS Engineer**
+
+`Feb 2020 ~` · 6년차 엔지니어 · 대전
 
 <br/>
 
-<!-- Engineering Keywords -->
-<img src="https://img.shields.io/badge/Architecture-Clean%20Architecture-critical" />
-<img src="https://img.shields.io/badge/Principles-SOLID%20%26%20TDD-important" />
-<img src="https://img.shields.io/badge/Automation-SaaS%20%26%20Infra%20Build-orange" />
-<img src="https://img.shields.io/badge/Engineering-Quality%20%26%20Scalability-success" />
+[![Backend](https://img.shields.io/badge/Backend-Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](#)
+[![DevOps](https://img.shields.io/badge/DevOps-Docker_&_CI/CD-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
+[![Mobile](https://img.shields.io/badge/Mobile-Flutter_&_RN-02569B?style=for-the-badge&logo=flutter&logoColor=white)](#)
+[![AI](https://img.shields.io/badge/AI-Claude_&_GPT-191A1B?style=for-the-badge&logo=anthropic&logoColor=white)](#)
 
-</p>
-
----
-
-# 🧠 About Me
-
-I am a Web Engineer with over **5 years of experience**, working across  
-**backend development, DevOps, CI/CD automation, server operations,  
-SaaS 전환 구조 설계, 그리고 AI 기반 기능 개발(Python + ChatGPT API)**.
-
-3개 회사에서 다양한 프로젝트와 운영 업무를 수행하며  
-**설계 → 개발 → 배포 → 운영 → 자동화 → SaaS 구조 전환**까지  
-전체 라이프사이클을 직접 구축해본 경험이 있다.
-
-내 개발 철학은 다음을 중심으로 한다:
-
-- **Test-first (TDD)**
-- **Clean Architecture + SOLID**
-- **단순함 우선(Simplicity First)**
-- **예측 가능한 시스템**
-- **Zero-noise Engineering**
-- **지속 가능한 자동화**
+</div>
 
 ---
 
-# 💻 Tech Stack
+### `whoami`
 
-### **Languages**
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white)
+```
+설계 → 개발 → 배포 → 운영 → 자동화 → SaaS 전환
+```
 
----
-
-### **Frameworks & Backend**
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?logo=spring&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
-![eGov](https://img.shields.io/badge/eGovFrame-3.x-blueviolet)
+3개 회사를 거치며 **결제 시스템**, **멀티테넌트 SaaS**, **인프라 자동화**를 직접 설계하고 구축.
+혼자서 PG 서버부터 모바일 앱, 모니터링 대시보드까지 풀스택으로 만들어 운영 중.
 
 ---
 
-### **Web / UI**
-![JSP](https://img.shields.io/badge/JSP-Legacy%20%26%20Refactoring-blueviolet)
-![Flutter](https://img.shields.io/badge/Flutter%20WebView-Integration-02569B?logo=flutter)
+### `ls ~/projects/`
+
+<table>
+<tr>
+<td width="50%">
+
+#### 💳 Payment Ecosystem
+| Project | Stack | Description |
+|---------|-------|-------------|
+| **[pg-solution](https://github.com/stylish-sys/pg-solution)** | `Spring Boot` `Java` | PG 서버 — 결제/송금/입금감지 API |
+| **[pay-monitor](https://github.com/stylish-sys/pay-monitor)** | `Android` `Kotlin` | 결제 알림 실시간 캡처 & 서버 전송 |
+| **[contactDeposit](https://github.com/stylish-sys/contactDeposit)** | `Node.js` `Automation` | 연락처 기반 입금 자동화 |
+
+</td>
+<td width="50%">
+
+#### 🏪 SaaS Commerce
+| Project | Stack | Description |
+|---------|-------|-------------|
+| **[slecs](https://github.com/stylish-sys/slecs)** | `Spring Boot` `MyBatis` | Weaver Kit — 멀티테넌트 SaaS 커머스 |
+| **[slecs_app](https://github.com/stylish-sys/slecs_app)** | `Flutter` `Dart` | 멀티테넌트 쇼핑몰 앱 솔루션 |
+
+</td>
+</tr>
+<tr>
+<td>
+
+#### 🛠 Developer Tools
+| Project | Stack | Description |
+|---------|-------|-------------|
+| **[claude-monitor](https://github.com/stylish-sys/claude-monitor)** | `Node.js` `React` | Claude 멀티에이전트 모니터링 대시보드 |
+| **[VideoDownloader](https://github.com/stylish-sys/VideoDownloader)** | `React Native` | 크로스플랫폼 비디오 다운로더 |
+| **[lineage-keymapper](https://github.com/stylish-sys/lineage-keymapper)** | `C++` `CMake` | 커스텀 키 리매퍼 |
+
+</td>
+<td>
+
+#### 📚 Legacy & Study
+| Project | Stack | Description |
+|---------|-------|-------------|
+| **[devslecs](https://github.com/stylish-sys/devslecs)** | `Spring Boot` | 개인 개발 블로그 & 포트폴리오 |
+| **[homepage](https://github.com/stylish-sys/homepage)** | `Java` | 홈페이지 프로젝트 |
+| **[source_study](https://github.com/stylish-sys/source_study)** | `Flutter` `C++` | Flutter 학습 & 실험 |
+| **[HowAboutPotato-](https://github.com/stylish-sys/HowAboutPotato-)** | `HTML` | 초기 웹 프로젝트 |
+
+</td>
+</tr>
+</table>
 
 ---
 
-### **OS / Server / Shell**
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![CentOS](https://img.shields.io/badge/CentOS-262577?logo=centos&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
-![Bash](https://img.shields.io/badge/Shell-Bash-121011?logo=gnu-bash&logoColor=white)
-![JEUS](https://img.shields.io/badge/JEUS-6·7-blue)
-![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
-![iptables](https://img.shields.io/badge/Firewall-iptables-blue)
+### `cat tech_stack.yml`
+
+```yaml
+languages:
+  - Java          # 메인 — Spring Boot / eGovFrame
+  - JavaScript    # Node.js, React
+  - TypeScript    # 프론트엔드
+  - Python        # AI 연동, 자동화
+  - Dart          # Flutter 모바일
+  - C++           # 시스템 레벨
+
+backend:
+  - Spring Boot 3.x
+  - MyBatis / JPA
+  - eGovFrame 3.x
+
+mobile:
+  - Flutter (멀티테넌트 앱)
+  - React Native
+
+devops:
+  - Docker / Docker Compose
+  - GitHub Actions / GitLab CI
+  - Pulumi / CloudFormation
+  - Nginx / JEUS
+
+infra:
+  - Linux (CentOS, Ubuntu)
+  - AWS (EC2, RDS, S3, CloudFront)
+  - ELK Stack (모니터링)
+  - iptables (네트워크/방화벽)
+
+databases:
+  - MariaDB / MySQL
+  - PostgreSQL
+  - Redis
+
+ai_tools:
+  - Claude Code (AI 바이브코딩)
+  - ChatGPT API
+  - Multi-Agent Orchestration
+```
 
 ---
 
-### **DevOps / Infra**
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white)
-![GitLab](https://img.shields.io/badge/CI-CD-GitLab-orange?logo=gitlab)
-![GitHub Actions](https://img.shields.io/badge/CI-CD-GitHub_Actions-2088FF.svg?logo=githubactions&logoColor=white)
-![Pulumi](https://img.shields.io/badge/IaC-Pulumi-orange)
-![CloudFormation](https://img.shields.io/badge/IaC-CloudFormation-FF4F8B)
-![ELK](https://img.shields.io/badge/Monitoring-ELK-yellow)
+### `cat principles.md`
+
+```
+✅ Test-First (TDD)           — 테스트가 먼저
+✅ Clean Architecture + SOLID  — 구조가 곧 문서
+✅ Simplicity First            — 단순함이 최고의 설계
+✅ Zero-Noise Engineering      — 불필요한 복잡도 제거
+✅ Automate Everything         — 반복은 자동화로
+✅ AI-Augmented Development    — AI와 함께 코딩
+```
 
 ---
 
-### **Tools**
-![Git](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/Editor-VSCode-blue)
-![IntelliJ](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-purple)
-![Gradle](https://img.shields.io/badge/Build-Gradle-02303A?logo=gradle&logoColor=white)
+### `git log --oneline --since="2020-02"`
+
+```
+2020.02  개발 시작 — 첫 번째 코드
+2020     웹 개발 입문 (Java, Spring, JSP)
+2021     첫 회사 — 실무 프로젝트 투입
+2022     DevOps & 인프라 — Docker, CI/CD, 서버 운영
+2023     SaaS 아키텍처 설계 — 멀티테넌트 구조
+2024     결제 시스템 구축 — PG 서버, 모니터링
+2025     AI 바이브코딩 — Claude Code로 개발 생산성 극대화
+2026     풀스택 SaaS + 결제 에코시스템 운영 중
+```
 
 ---
 
-# 🧩 Engineering Principles I Follow
+<div align="center">
 
-![TDD](https://img.shields.io/badge/Process-Test--First%20(TDD)-brightgreen)
-![CleanArchitecture](https://img.shields.io/badge/Architecture-Clean-informational)
-![SOLID](https://img.shields.io/badge/Principles-SOLID-blue)
-![DRY](https://img.shields.io/badge/Principles-DRY-important)
-![NoMockData](https://img.shields.io/badge/Rule-No%20Mock%20Data%20in%20Dev/Prod-critical)
-![Logging](https://img.shields.io/badge/Debugging-Explicit%20Logs%20%26%20Root%20Cause-yellowgreen)
-![AWSDesc](https://img.shields.io/badge/Convention-AWS%20Descriptions%20in%20English-lightgrey)
+### `echo $STATS`
 
-- 테스트가 먼저(TDD 기반)
-- SOLID·클린아키텍처 중심 구조 설계
-- 단순함 우선(Simplicity First)
-- 운영 자동화, 반복 업무 제거
-- PL·팀 운영 경험 기반 커뮤니케이션 구조 확립
-- SaaS 전환에 필요한 아키텍처 및 배포 전략 수립
-- DB 설계, 인프라 구성, 방화벽·네트워크 정책까지 전 주기 커버
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stylish-sys&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stylish-sys&layout=compact&theme=github_dark&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stylish-sys&theme=github-dark-blue&hide_border=true)
 
 ---
 
-# 📊 GitHub Metrics
+**`dev.slecs@gmail.com`**
 
-![GitHub followers](https://img.shields.io/github/followers/stylish-sys?style=social)
-![GitHub stars](https://img.shields.io/github/stars/stylish-sys?affiliations=OWNER%2CCOLLABORATOR&style=social)
+<sub>⚡ Engineered with clean code, automation, and AI-augmented development.</sub>
 
----
-
-# ✉️ Contact  
-
-- **Email:** dev.slecs@gmail.com
-
----
-
-<p align="center">
-  <sub>⚡ Engineered with clean code, automation, and AI.</sub>
-</p>
+</div>
