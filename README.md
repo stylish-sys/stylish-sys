@@ -134,8 +134,8 @@ Claude Code 기반 — `1인 = 5인 팀` 효율 · AI 동료 N명과 시스템�
 
 <br/>
 
-<details>
-<summary><h3>💼 Verified Career <sub><i>(click to expand)</i></sub></h3></summary>
+<details open>
+<summary><h3>💼 Verified Career <sub><i>(click to toggle)</i></sub></h3></summary>
 
 <br/>
 
@@ -154,8 +154,8 @@ Claude Code 기반 — `1인 = 5인 팀` 효율 · AI 동료 N명과 시스템�
 
 <br/>
 
-<details>
-<summary><h3>📊 GitHub Stats & Activity <sub><i>(click to expand)</i></sub></h3></summary>
+<details open>
+<summary><h3>📊 GitHub Stats & Activity <sub><i>(click to toggle)</i></sub></h3></summary>
 
 <br/>
 
@@ -178,8 +178,8 @@ Claude Code 기반 — `1인 = 5인 팀` 효율 · AI 동료 N명과 시스템�
 
 <br/>
 
-<details>
-<summary><h3>🛠 Tech Stack <sub><i>(click to expand)</i></sub></h3></summary>
+<details open>
+<summary><h3>🛠 Tech Stack <sub><i>(click to toggle)</i></sub></h3></summary>
 
 <br/>
 
@@ -201,8 +201,8 @@ ai:         [ Claude Code, ChatGPT API, DALL·E, Kling AI, OMC Multi-Agent ]
 
 <br/>
 
-<details>
-<summary><h3>🌐 Other Projects <sub><i>(click to expand)</i></sub></h3></summary>
+<details open>
+<summary><h3>🌐 Other Projects <sub><i>(click to toggle)</i></sub></h3></summary>
 
 <br/>
 
