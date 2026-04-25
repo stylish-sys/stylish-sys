@@ -27,11 +27,18 @@
 
 ---
 
+<br/>
+
+<details open>
+<summary><h3>🚀 Featured Projects <sub><i>(click to toggle)</i></sub></h3></summary>
+
+<br/>
+
 <table align="center">
 <tr>
 <td width="33%" valign="top" align="center">
 
-### 💳 Ticketnara PG
+#### 💳 Ticketnara PG
 **`₩2,000,000,000+ / day`**
 
 <sub>2 Engineers · 2 Months · KOSA 인증</sub>
@@ -44,7 +51,7 @@ WAS 이중화 · 가상계좌·카드 결제 · 멀티계층 파트너 수수료
 </td>
 <td width="33%" valign="top" align="center">
 
-### 🏪 PAYROK SaaS
+#### 🏪 PAYROK SaaS
 **`1.5 years · Solo Lead`**
 
 <sub>간편결제 플랫폼 SaaS</sub>
@@ -56,7 +63,7 @@ WAS 이중화 · 가상계좌·카드 결제 · 멀티계층 파트너 수수료
 </td>
 <td width="33%" valign="top" align="center">
 
-### 🤖 OMC
+#### 🤖 OMC
 **`Open Source · TypeScript`**
 
 <sub>자체 멀티 에이전트 오케스트레이션</sub>
@@ -70,7 +77,7 @@ Claude Code 기반 — `1인 = 5인 팀` 효율 · AI 동료 N명과 시스템�
 <tr>
 <td width="33%" valign="top" align="center">
 
-### 🛍 Onthemall
+#### 🛍 Onthemall
 **`In Production · Commerce`**
 
 <sub>운영 중 커머스 플랫폼</sub>
@@ -82,7 +89,7 @@ Claude Code 기반 — `1인 = 5인 팀` 효율 · AI 동료 N명과 시스템�
 </td>
 <td width="33%" valign="top" align="center">
 
-### 📱 slecs SaaS
+#### 📱 slecs SaaS
 **`Multi-Tenant · Mobile + Web`**
 
 <sub>한 코드베이스로 N개 쇼핑몰</sub>
@@ -94,7 +101,7 @@ Claude Code 기반 — `1인 = 5인 팀` 효율 · AI 동료 N명과 시스템�
 </td>
 <td width="33%" valign="top" align="center">
 
-### 📺 Content Automation
+#### 📺 Content Automation
 **`AI · Full Pipeline`**
 
 <sub>주제 → 업로드 풀 자동화</sub>
@@ -107,15 +114,18 @@ Claude Code 기반 — `1인 = 5인 팀` 효율 · AI 동료 N명과 시스템�
 </tr>
 </table>
 
+</details>
+
 <br/>
 
 ---
 
-<div align="center">
+<br/>
 
-### 💼 Verified Career
+<details>
+<summary><h3>💼 Verified Career <sub><i>(click to expand)</i></sub></h3></summary>
 
-</div>
+<br/>
 
 <table align="center">
 <tr><td width="20%" align="center">🏢 <b>Companies</b></td><td>(주)코*** <code>2024.04 ~ 현재</code> · 케*** <code>2020.02 ~ 2023.01</code></td></tr>
@@ -124,9 +134,18 @@ Claude Code 기반 — `1인 = 5인 팀` 효율 · AI 동료 N명과 시스템�
 <tr><td align="center">🏆 <b>대표 사업</b></td><td>PAYROK SaaS · 솔루션 기반 PG 시스템 · NTIS · 학교통합홈페이지 · 대구교육정보 · 전자상거래 플랫폼</td></tr>
 </table>
 
+</details>
+
 <br/>
 
 ---
+
+<br/>
+
+<details>
+<summary><h3>📊 GitHub Stats & Activity <sub><i>(click to expand)</i></sub></h3></summary>
+
+<br/>
 
 <div align="center">
 
@@ -139,14 +158,18 @@ Claude Code 기반 — `1인 = 5인 팀` 효율 · AI 동료 N명과 시스템�
 
 </div>
 
+</details>
+
+<br/>
+
+---
+
 <br/>
 
 <details>
-<summary><b>📂 More — Tech Stack · Other Projects</b></summary>
+<summary><h3>🛠 Tech Stack <sub><i>(click to expand)</i></sub></h3></summary>
 
 <br/>
-
-### 🛠 Tech Stack
 
 ```yaml
 languages:  [ Java, Kotlin, TypeScript, JavaScript, Python, Dart ]
@@ -158,7 +181,18 @@ databases:  [ MariaDB, MySQL, PostgreSQL, Redis ]
 ai:         [ Claude Code, ChatGPT API, DALL·E, Kling AI, OMC Multi-Agent ]
 ```
 
-### 🚀 Other Projects
+</details>
+
+<br/>
+
+---
+
+<br/>
+
+<details>
+<summary><h3>🌐 Other Projects <sub><i>(click to expand)</i></sub></h3></summary>
+
+<br/>
 
 - **claude-monitor** — Claude 멀티 에이전트 실시간 모니터링 대시보드 (`Node.js` `React`) · [repo](https://github.com/stylish-sys/claude-monitor)
 - **YouTube Shorts Pipeline** — DALL·E + TTS + ffmpeg 풀 자동화 (`Python`)
