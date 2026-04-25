@@ -85,7 +85,7 @@ const me = {
 | 🔐 | **티켓나라 결제 시스템** | `Spring Boot` `MariaDB` | **2명이서 2개월 만에 풀구축 → 오픈 후 일 거래액 ₩20억 돌파** · WAS 이중화 · 가상계좌/카드 결제 · 멀티계층 파트너 수수료 정산 (PENDING → CONFIRMED 홀딩) |
 | 🔐 | **pg-solution** | `Spring Boot` `Java` | 자체 PG 게이트웨이 — 결제/송금/입금 감지 API |
 | 🔐 | **pay-monitor** | `Android` `Kotlin` | 결제 알림 실시간 캡처 + Webhook 송출 |
-| 🔐 | **PAYROK (페이락) SaaS 솔루션** | `Spring Boot` `Java` `Vue` | 간편결제 플랫폼 — **관리자 페이지 전면 개편 · SaaS 화 · 기능 개선 · 유지보수 (1.5년+)** |
+| 🔐 | **PAYROK (페이락) SaaS 솔루션** | `Spring Boot` `Java` `JSP` `Thymeleaf` `jQuery` | 간편결제 플랫폼 — **관리자 페이지 전면 개편 · SaaS 화 · 기능 개선 · 유지보수 (1.5년+)** |
 
 ### 🏪 Commerce & SaaS — `8+ Apps Shipped`
 | | Project | Stack | What |
@@ -137,7 +137,7 @@ philosophy:
 
 | 분류 | 내역 |
 |:---:|---|
-| 🏢 **Companies** | (주)코리엠소프트 `2024.04 ~ 현재` · 케이엘정보통신(주) `2020.02 ~ 2023.01` |
+| 🏢 **Companies** | (주)코*** `2024.04 ~ 현재` · 케*** `2020.02 ~ 2023.01` |
 | 📜 **KOSA 인증** | SW기술자 경력 **19+ 프로젝트** 정부 검증 완료 (한국소프트웨어산업협회) |
 | 🎓 **학력** | 한라대학교 컴퓨터공학과 학사 |
 | 🏆 **대표 사업** | PAYROK SaaS · 솔루션 기반 PG 시스템 신규 구축 · NTIS · 학교통합홈페이지 응용SW · 대구교육정보서비스 · 전자상거래 플랫폼 |
