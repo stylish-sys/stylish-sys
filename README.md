@@ -2,16 +2,36 @@
 <!--              stylish-sys · GitHub Profile                     -->
 <!-- ============================================================== -->
 
+<!-- ============== HERO BANNER ============== -->
+<a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=stylish-sys&fontSize=78&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Build%20Anything%20with%20AI%20%C2%B7%20Backend%20%C2%B7%20Payments%20%C2%B7%20SaaS%20%C2%B7%20Automation&descAlignY=58&descSize=18" width="100%"/></a>
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=110&lines=Sunyong+Lee+%E2%80%94+Build+Anything+with+AI;Backend+%C2%B7+Infra+%C2%B7+SaaS+%C2%B7+Payments+%C2%B7+Automation;%EB%A7%8C%EB%8A%A5%ED%98%95+%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4+%2B+AI+%EC%98%A4%EC%BC%80%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%ED%84%B0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=860&height=120&lines=Sunyong+Lee+%E2%80%94+%E2%9A%A1+Build+Anything+with+AI;%E2%82%A920%EC%96%B5%2B+Daily+Payment+Volume+%C2%B7+8%2B+Apps+Shipped;%EB%A7%8C%EB%8A%A5%ED%98%95+%ED%92%80%EC%8A%A4%ED%83%9D+%2B+%EB%A9%80%ED%8B%B0+%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8+%EC%98%A4%EC%BC%80%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%ED%84%B0)](https://git.io/typing-svg)
 
-`Feb 2020 ~` · 7년차 · Daejeon, Korea
+`Feb 2020 ~` · 7년차 · Daejeon, Korea · `dev.slecs@gmail.com`
 
-[![Profile Views](https://komarev.com/ghpvc/?username=stylish-sys&color=58A6FF&style=flat-square&label=VIEWS)]()
-[![Followers](https://img.shields.io/github/followers/stylish-sys?style=flat-square&color=58A6FF&labelColor=0d1117)](https://github.com/stylish-sys)
+[![Profile Views](https://komarev.com/ghpvc/?username=stylish-sys&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/stylish-sys)
+[![Followers](https://img.shields.io/github/followers/stylish-sys?style=for-the-badge&color=58A6FF&labelColor=0d1117&label=FOLLOWERS)](https://github.com/stylish-sys)
+[![Years](https://img.shields.io/badge/EXPERIENCE-7%2B%20YEARS-58A6FF?style=for-the-badge&labelColor=0d1117)](https://github.com/stylish-sys)
 
 </div>
+
+---
+
+## ⚡ `> cat by-the-numbers.md`
+
+<div align="center">
+
+| 💰 일 거래액 | 📦 출시 앱·SaaS | 🧑‍💻 경력 | 🤖 AI 워크플로우 |
+|:---:|:---:|:---:|:---:|
+| **₩20억+** | **8+** | **7년차** | **자체 OMC** |
+| 티켓나라 결제 | 모바일 + SaaS | Backend · Infra · AI | 멀티 에이전트 운영 |
+
+</div>
+
+> **TL;DR** — 일매출 ₩20억 결제 시스템 운영 · 모바일/SaaS 8개+ 출시 ·
+> AI 멀티 에이전트로 1인 = 5인 팀 효율. **결제부터 콘텐츠 자동화까지 풀스택.**
 
 ---
 
@@ -26,30 +46,28 @@ const me = {
   range: "PG 결제 서버 ←→ Flutter 앱 ←→ 인프라 자동화 ←→ AI 콘텐츠 파이프라인",
   motto: [
     "혼자서 PG부터 모바일까지 — 한 명이 한 회사를 굴리는 풀스택",
-    "AI 와 함께 코딩하는 것이 아니라, AI 를 오케스트레이션해서 시스템을 짓는다",
+    "AI 와 코딩하는 게 아니라 — AI 를 오케스트레이션해서 시스템을 짓는다",
     "설계 → 개발 → 배포 → 운영 → 자동화 → SaaS 전환까지 손수",
   ],
-  current: "결제 시스템 + 멀티테넌트 SaaS + 멀티에이전트 AI 워크플로우 운영",
+  current: "결제 시스템 + 멀티테넌트 SaaS + 멀티 에이전트 AI 워크플로우 운영",
 };
 ```
 
-> **TL;DR** — 결제 / 커머스 / SaaS / 인프라 / AI 오케스트레이션 / 콘텐츠 자동화.
-> **전부 직접 만들고 직접 굴립니다.** 공통점은 하나 — **AI 를 무기처럼 다룬다.**
-
 ---
 
-## `> ls ~/in-production/`
+## 🚀 `> ls ~/in-production/`
 
-> 현재 **실제 운영 중인** 시스템들. 매일 트래픽이 흐르고, 매일 코드를 고친다.
+> 현재 **실제 운영 중**인 시스템들. 매일 트래픽이 흐르고, 매일 코드를 고친다.
 
-### 💳 Payment & Settlement
+### 💳 Payment & Settlement — `₩20억+/day`
 | | Project | Stack | What |
 |:-:|---|---|---|
-| 🔐 | **티켓나라 결제 시스템** | `Spring Boot` `MariaDB` | WAS 이중화 · 가상계좌/카드 결제 · 멀티계층 파트너 수수료 정산 (PENDING → CONFIRMED 홀딩) |
+| 🔐 | **티켓나라 결제 시스템** | `Spring Boot` `MariaDB` | **일 거래액 ₩20억 돌파** · WAS 이중화 · 가상계좌/카드 결제 · 멀티계층 파트너 수수료 정산 (PENDING → CONFIRMED 홀딩) |
 | 🔐 | **pg-solution** | `Spring Boot` `Java` | 자체 PG 게이트웨이 — 결제/송금/입금 감지 API |
 | 🔐 | **pay-monitor** | `Android` `Kotlin` | 결제 알림 실시간 캡처 + Webhook 송출 |
+| 🔐 | **PayLock-style 결제 앱 (Clone)** | `Flutter` `Spring Boot` | 페이락 스타일 모바일 결제 앱 클론 — UI/UX + 백엔드 풀구현 |
 
-### 🏪 Commerce & SaaS
+### 🏪 Commerce & SaaS — `8+ Apps Shipped`
 | | Project | Stack | What |
 |:-:|---|---|---|
 | 🔐 | **온더몰 (Onthemall)** | `Spring Boot` `MyBatis` `MariaDB` | 운영 중 커머스 플랫폼 |
@@ -74,15 +92,15 @@ const me = {
 
 ---
 
-## `> cat super-power.md`
+## ⚔️ `> cat super-power.md`
 
 ```yaml
 range:        "PG 백엔드 ←→ 모바일 앱 ←→ 인프라 ←→ AI 파이프라인"
 working_mode: "혼자서 한 회사 시스템을 통째로 굴림"
 weapon:       "Claude Code + 멀티 에이전트 (OMC) — 1인 = 5인 팀"
 specialty:
-  - "결제/정산 도메인 깊이 (PG 서버부터 파트너 수수료 정산까지)"
-  - "멀티테넌트 SaaS 설계"
+  - "결제/정산 도메인 깊이 — PG 서버부터 파트너 수수료 정산까지"
+  - "멀티테넌트 SaaS 설계 — 한 코드베이스로 N개 쇼핑몰"
   - "AI 워크플로우로 반복 작업을 0 으로 수렴"
   - "레거시 운영 시스템에서도 매일 안정 배포"
 philosophy:
@@ -93,80 +111,99 @@ philosophy:
 
 ---
 
-## `> ls ~/tech-stack/`
+## 🛠 `> ls ~/tech-stack/`
 
 <div align="center">
 
-**Backend & Languages**
-<br/>
-<a href="#"><img src="https://skillicons.dev/icons?i=java,spring,kotlin,python,nodejs,ts,js,dart&theme=dark" /></a>
+#### 🧠 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-**Mobile · Frontend**
-<br/>
-<a href="#"><img src="https://skillicons.dev/icons?i=flutter,react,html,css&theme=dark" /></a>
+#### ⚙️ Backend & Frameworks
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-CC0000?style=for-the-badge&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![eGovFrame](https://img.shields.io/badge/eGovFrame-003366?style=for-the-badge&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-**Infra · DevOps · DB**
-<br/>
-<a href="#"><img src="https://skillicons.dev/icons?i=docker,linux,aws,nginx,githubactions,gitlab,mysql,redis,postgres&theme=dark" /></a>
+#### 📱 Mobile · Frontend
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
 
-**AI · Automation**
-<br/>
-<a href="#"><img src="https://skillicons.dev/icons?i=anthropic,openai,bash&theme=dark" /></a>
+#### ☁️ Infra · DevOps · Database
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Naver Cloud](https://img.shields.io/badge/Naver%20Cloud-03C75A?style=for-the-badge&logo=naver&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![JEUS](https://img.shields.io/badge/JEUS-1E40AF?style=for-the-badge&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+#### 🤖 AI · Automation
+![Anthropic](https://img.shields.io/badge/Claude_(Anthropic)-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![ChatGPT API](https://img.shields.io/badge/ChatGPT_API-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![DALL·E](https://img.shields.io/badge/DALL·E-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Kling AI](https://img.shields.io/badge/Kling_AI-FF6B6B?style=for-the-badge&logoColor=white)
+![ffmpeg](https://img.shields.io/badge/ffmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 
 </div>
 
-<details>
-<summary><b>📋 전체 스택 상세 보기</b></summary>
-<br/>
-
-```yaml
-languages:   [ Java, Kotlin, JavaScript, TypeScript, Python, Dart, C++ ]
-backend:     [ Spring Boot 3.x, MyBatis, JPA, eGovFrame, Node.js, Express ]
-mobile:      [ Flutter, React Native, Android (Kotlin) ]
-frontend:    [ React, Thymeleaf, Vanilla JS ]
-devops:      [ Docker, GitHub Actions, GitLab CI, Pulumi, CloudFormation ]
-infra:       [ Linux, AWS, Naver Cloud, JEUS, Nginx, ELK ]
-databases:   [ MariaDB, MySQL, PostgreSQL, Redis ]
-ai:          [ Claude Code, ChatGPT API, DALL·E, Kling AI, Multi-Agent Orchestration ]
-automation:  [ ffmpeg pipeline, Telegram bots, YouTube auto-publish, scheduled crons ]
-```
-
-</details>
-
 ---
 
-## `> git log --graph --since="2020-02"`
+## 📈 `> git log --graph --since="2020-02"`
 
 ```
-◉  2026  결제 운영 + 커머스 SaaS + AI 오케스트레이션 풀 파이프라인
+◉  2026  ⚡ 일매출 ₩20억 결제 운영 + 8+ 앱·SaaS 운영 + AI 오케스트레이션
 │
-◉  2025  AI-Augmented Engineering — Claude Code · OMC 자체 멀티 에이전트 프레임워크
+◉  2025  🤖 AI-Augmented Engineering — Claude Code · OMC 자체 멀티 에이전트 프레임워크
 │
-◉  2024  결제 시스템 깊이 — PG 서버, 가상계좌/카드 정산, 결제 모니터링
+◉  2024  💳 결제 시스템 깊이 — PG 서버, 가상계좌/카드 정산, 결제 모니터링
 │
-◉  2023  SaaS 아키텍처 설계 — 멀티테넌트 구조 전환
+◉  2023  🏪 SaaS 아키텍처 설계 — 멀티테넌트 구조 전환
 │
-◉  2022  DevOps & 인프라 — Docker, CI/CD, 서버 운영
+◉  2022  ☁️ DevOps & 인프라 — Docker, CI/CD, 서버 운영
 │
-◉  2021  첫 회사 풀입 — 실무 프로젝트 & 팀 리드
+◉  2021  💼 첫 회사 풀입 — 실무 프로젝트 & 팀 리드
 │
-◉  2020  웹 개발 입문 — Java, Spring, JSP
+◉  2020  🌱 웹 개발 입문 — Java, Spring, JSP
 │
-◉  2020.02  개발 시작 — 첫 번째 코드 🚀
+◉  2020.02  🚀 개발 시작 — 첫 번째 코드
 ```
 
 ---
 
-## `> echo $STATS`
+## 📊 `> echo $STATS`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=stylish-sys&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=stylish-sys&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=stylish-sys&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
 
 <br/><br/>
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stylish-sys&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8&count_private=true" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stylish-sys&theme=tokyonight" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=stylish-sys&theme=tokyonight" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stylish-sys&theme=tokyonight" />
+
+<br/><br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=stylish-sys&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=stylish-sys&theme=tokyonight&utcOffset=9" />
 
 <br/><br/>
 
@@ -180,12 +217,20 @@ automation:  [ ffmpeg pipeline, Telegram bots, YouTube auto-publish, scheduled c
 
 ---
 
+## 📬 `> contact --format=brief`
+
 <div align="center">
 
-**`dev.slecs@gmail.com`** · **[GitHub](https://github.com/stylish-sys)** · **Daejeon, KR**
+[![Email](https://img.shields.io/badge/dev.slecs@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.slecs@gmail.com)
+[![GitHub](https://img.shields.io/badge/stylish--sys-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stylish-sys)
+[![Location](https://img.shields.io/badge/Daejeon,_KR-58A6FF?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/stylish-sys)
 
-> _"가장 많은 일을 가장 적은 사람으로. AI 와 함께라면 가능합니다."_
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
+> _"가장 많은 일을 가장 적은 사람으로 — AI 와 함께라면 가능합니다."_
+>
+> _"₩20억의 결제, 8개의 앱, 1명의 엔지니어 — 그리고 무한한 AI."_
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
