@@ -67,6 +67,61 @@ Claude Code 기반 — `1인 = 5인 팀` 효율 · AI 동료 N명과 시스템�
 
 </td>
 </tr>
+<tr>
+<td width="33%" valign="top" align="center">
+
+### 🛍 Onthemall
+**`In Production · Commerce`**
+
+<sub>운영 중 커머스 플랫폼</sub>
+
+<br/>
+
+`Spring Boot` · `MyBatis` · `MariaDB` — 매일 트래픽이 흐르는 라이브 서비스
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 📱 slecs SaaS
+**`Multi-Tenant · Mobile + Web`**
+
+<sub>한 코드베이스로 N개 쇼핑몰</sub>
+
+<br/>
+
+`Spring Boot` (Weaver Kit) + `Flutter` 앱 — 멀티테넌트 SaaS 풀스택
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 📺 Content Automation
+**`AI · Full Pipeline`**
+
+<sub>주제 → 업로드 풀 자동화</sub>
+
+<br/>
+
+`DALL·E` + `TTS` + `ffmpeg` (YouTube Shorts) · `Kling AI` (text2video) · `Telegram` 봇
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<div align="center">
+
+### 💼 Verified Career
+
+</div>
+
+<table align="center">
+<tr><td width="20%" align="center">🏢 <b>Companies</b></td><td>(주)코*** <code>2024.04 ~ 현재</code> · 케*** <code>2020.02 ~ 2023.01</code></td></tr>
+<tr><td align="center">📜 <b>KOSA 인증</b></td><td>SW기술자 경력 <b>19+ 프로젝트</b> 정부 검증 (한국소프트웨어산업협회)</td></tr>
+<tr><td align="center">🎓 <b>학력</b></td><td>한라대학교 컴퓨터공학과 학사</td></tr>
+<tr><td align="center">🏆 <b>대표 사업</b></td><td>PAYROK SaaS · 솔루션 기반 PG 시스템 · NTIS · 학교통합홈페이지 · 대구교육정보 · 전자상거래 플랫폼</td></tr>
 </table>
 
 <br/>
@@ -87,18 +142,9 @@ Claude Code 기반 — `1인 = 5인 팀` 효율 · AI 동료 N명과 시스템�
 <br/>
 
 <details>
-<summary><b>📂 More — Career · Stack · All Projects</b></summary>
+<summary><b>📂 More — Tech Stack · Other Projects</b></summary>
 
 <br/>
-
-### 💼 Verified Career
-
-| 분류 | 내역 |
-|:---:|---|
-| 🏢 **Companies** | (주)코*** `2024.04 ~ 현재` · 케*** `2020.02 ~ 2023.01` |
-| 📜 **KOSA 인증** | SW기술자 경력 **19+ 프로젝트** 정부 검증 |
-| 🎓 **학력** | 한라대학교 컴퓨터공학과 학사 |
-| 🏆 **대표 사업** | PAYROK SaaS · 솔루션 기반 PG 시스템 · NTIS · 학교통합홈페이지 · 대구교육정보 · 전자상거래 |
 
 ### 🛠 Tech Stack
 
