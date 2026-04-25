@@ -74,6 +74,18 @@ Claude Code 기반 — `1인 = 5인 팀` 효율 · AI 동료 N명과 시스템�
 
 </td>
 </tr>
+</table>
+
+</details>
+
+<br/>
+
+<details>
+<summary><h3>➕ More Projects <sub><i>(click to expand · 3 more)</i></sub></h3></summary>
+
+<br/>
+
+<table align="center">
 <tr>
 <td width="33%" valign="top" align="center">
 
