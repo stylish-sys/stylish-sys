@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=860&height=120&lines=Sunyong+Lee+%E2%80%94+%E2%9A%A1+Build+Anything+with+AI;%E2%82%A920%EC%96%B5%2B+Daily+Payment+Volume+%C2%B7+8%2B+Apps+Shipped;%EB%A7%8C%EB%8A%A5%ED%98%95+%ED%92%80%EC%8A%A4%ED%83%9D+%2B+%EB%A9%80%ED%8B%B0+%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8+%EC%98%A4%EC%BC%80%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%ED%84%B0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=26&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=130&lines=Sunyong+Lee+%E2%80%94+%E2%9A%A1+Build+Anything+with+AI;2%EB%AA%85+%C2%B7+2%EA%B0%9C%EC%9B%94+%C2%B7+%EC%9D%BC%EB%A7%A4%EC%B6%9C+%E2%82%A920%EC%96%B5+%EA%B2%B0%EC%A0%9C+%EC%8B%9C%EC%8A%A4%ED%85%9C+%EA%B5%AC%EC%B6%95;7%EB%85%84%EA%B0%84+8%EA%B0%9C%2B+%EC%95%B1+%C2%B7+SaaS+%EC%B6%9C%EC%8B%9C+%C2%B7+AI+%EC%98%A4%EC%BC%80%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%ED%84%B0)](https://git.io/typing-svg)
 
 `Feb 2020 ~` · 7년차 · Daejeon, Korea · `dev.slecs@gmail.com`
 
@@ -30,8 +30,26 @@
 
 </div>
 
-> **TL;DR** — 일매출 ₩20억 결제 시스템 운영 · 모바일/SaaS 8개+ 출시 ·
-> AI 멀티 에이전트로 1인 = 5인 팀 효율. **결제부터 콘텐츠 자동화까지 풀스택.**
+---
+
+## 💥 `> cat highlight.md` — Ticketnara Sprint
+
+<div align="center">
+
+### 🚀 단 2명 · 2개월 · 일매출 ₩20억 결제 시스템
+
+| 👥 팀 규모 | ⏱ 빌드 기간 | 💸 오픈 후 일 거래액 |
+|:---:|:---:|:---:|
+| **2 Engineers** | **2 Months** | **₩2,000,000,000+ / day** |
+
+> **동료 1명과 단 둘이서** — 백엔드 / WAS 이중화 / 가상계좌·카드 결제 / 멀티계층 파트너 수수료 정산 / 어드민 / 모니터링까지 **풀스택 직접 구축**.
+> AI 멀티 에이전트(OMC) 로 5인 팀의 산출량을 **둘이서** 냈습니다.
+
+</div>
+
+> **TL;DR** — 동료 1명과 둘이서 2개월 만에 ₩20억 일매출 결제 시스템 구축 ·
+> 7년간 8개+ 앱·SaaS 출시 · AI 멀티 에이전트로 **2인 = 10인 팀** 효율.
+> **결제부터 콘텐츠 자동화까지 풀스택.**
 
 ---
 
@@ -45,7 +63,7 @@ const me = {
   role:  "Full-Stack Engineer · Tech Lead · AI Orchestrator",
   range: "PG 결제 서버 ←→ Flutter 앱 ←→ 인프라 자동화 ←→ AI 콘텐츠 파이프라인",
   motto: [
-    "혼자서 PG부터 모바일까지 — 한 명이 한 회사를 굴리는 풀스택",
+    "동료 1명 + AI 와 함께 — 둘이서 한 회사 시스템을 통째로 굴리는 풀스택",
     "AI 와 코딩하는 게 아니라 — AI 를 오케스트레이션해서 시스템을 짓는다",
     "설계 → 개발 → 배포 → 운영 → 자동화 → SaaS 전환까지 손수",
   ],
@@ -62,7 +80,7 @@ const me = {
 ### 💳 Payment & Settlement — `₩20억+/day`
 | | Project | Stack | What |
 |:-:|---|---|---|
-| 🔐 | **티켓나라 결제 시스템** | `Spring Boot` `MariaDB` | **일 거래액 ₩20억 돌파** · WAS 이중화 · 가상계좌/카드 결제 · 멀티계층 파트너 수수료 정산 (PENDING → CONFIRMED 홀딩) |
+| 🔐 | **티켓나라 결제 시스템** | `Spring Boot` `MariaDB` | **2명이서 2개월 만에 풀구축 → 오픈 후 일 거래액 ₩20억 돌파** · WAS 이중화 · 가상계좌/카드 결제 · 멀티계층 파트너 수수료 정산 (PENDING → CONFIRMED 홀딩) |
 | 🔐 | **pg-solution** | `Spring Boot` `Java` | 자체 PG 게이트웨이 — 결제/송금/입금 감지 API |
 | 🔐 | **pay-monitor** | `Android` `Kotlin` | 결제 알림 실시간 캡처 + Webhook 송출 |
 | 🔐 | **PayLock-style 결제 앱 (Clone)** | `Flutter` `Spring Boot` | 페이락 스타일 모바일 결제 앱 클론 — UI/UX + 백엔드 풀구현 |
@@ -96,8 +114,8 @@ const me = {
 
 ```yaml
 range:        "PG 백엔드 ←→ 모바일 앱 ←→ 인프라 ←→ AI 파이프라인"
-working_mode: "혼자서 한 회사 시스템을 통째로 굴림"
-weapon:       "Claude Code + 멀티 에이전트 (OMC) — 1인 = 5인 팀"
+working_mode: "동료 1명과 단 둘이서 한 회사 시스템을 통째로 — 2명이서 2개월 만에 ₩20억 결제 시스템"
+weapon:       "Claude Code + 멀티 에이전트 (OMC) — 2인 = 10인 팀"
 specialty:
   - "결제/정산 도메인 깊이 — PG 서버부터 파트너 수수료 정산까지"
   - "멀티테넌트 SaaS 설계 — 한 코드베이스로 N개 쇼핑몰"
@@ -168,7 +186,7 @@ philosophy:
 ## 📈 `> git log --graph --since="2020-02"`
 
 ```
-◉  2026  ⚡ 일매출 ₩20억 결제 운영 + 8+ 앱·SaaS 운영 + AI 오케스트레이션
+◉  2026  ⚡ 2명/2개월로 일매출 ₩20억 결제 시스템 오픈 · 8+ 앱·SaaS 운영 · AI 오케스트레이션
 │
 ◉  2025  🤖 AI-Augmented Engineering — Claude Code · OMC 자체 멀티 에이전트 프레임워크
 │
@@ -229,7 +247,7 @@ philosophy:
 
 > _"가장 많은 일을 가장 적은 사람으로 — AI 와 함께라면 가능합니다."_
 >
-> _"₩20억의 결제, 8개의 앱, 1명의 엔지니어 — 그리고 무한한 AI."_
+> _"₩20억 일매출 결제, 단 2명이서 2개월 만에 — 그리고 7년간 8개의 앱."_
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
