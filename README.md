@@ -9,7 +9,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=26&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=130&lines=Sunyong+Lee+%E2%80%94+%E2%9A%A1+Build+Anything+with+AI;2%EB%AA%85+%C2%B7+2%EA%B0%9C%EC%9B%94+%C2%B7+%EC%9D%BC%EB%A7%A4%EC%B6%9C+%E2%82%A920%EC%96%B5+%EA%B2%B0%EC%A0%9C+%EC%8B%9C%EC%8A%A4%ED%85%9C+%EA%B5%AC%EC%B6%95;7%EB%85%84%EA%B0%84+8%EA%B0%9C%2B+%EC%95%B1+%C2%B7+SaaS+%EC%B6%9C%EC%8B%9C+%C2%B7+AI+%EC%98%A4%EC%BC%80%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%ED%84%B0)](https://git.io/typing-svg)
 
-`Feb 2020 ~` · 7년차 · Daejeon, Korea · `dev.slecs@gmail.com`
+`Feb 2020 ~` · 7년차 · `dev.slecs@gmail.com`
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-slecs15.cafe24.com-58A6FF?style=for-the-badge&logo=safari&logoColor=white&labelColor=0d1117)](https://slecs15.cafe24.com/)
 [![Profile Views](https://komarev.com/ghpvc/?username=stylish-sys&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/stylish-sys)
@@ -62,11 +62,10 @@
 const me = {
   name:  "Sunyong Lee",
   alias: "stylish-sys / slecs / jorney1015",
-  base:  "Daejeon, KR",
   role:  "Full-Stack Engineer · Tech Lead · AI Orchestrator",
   range: "PG 결제 서버 ←→ Flutter 앱 ←→ 인프라 자동화 ←→ AI 콘텐츠 파이프라인",
   motto: [
-    "동료 1명 + AI 와 함께 — 둘이서 한 회사 시스템을 통째로 굴리는 풀스택",
+    "PG 결제부터 모바일·SaaS·AI 까지 — 한 명이 회사를 통째로 굴리는 풀스택",
     "AI 와 코딩하는 게 아니라 — AI 를 오케스트레이션해서 시스템을 짓는다",
     "설계 → 개발 → 배포 → 운영 → 자동화 → SaaS 전환까지 손수",
   ],
@@ -117,8 +116,8 @@ const me = {
 
 ```yaml
 range:        "PG 백엔드 ←→ 모바일 앱 ←→ 인프라 ←→ AI 파이프라인"
-working_mode: "동료 1명과 단 둘이서 한 회사 시스템을 통째로 — 2명이서 2개월 만에 ₩20억 결제 시스템"
-weapon:       "Claude Code + 멀티 에이전트 (OMC) — 2인 = 10인 팀"
+working_mode: "혼자서 한 회사 시스템을 통째로 굴림 (티켓나라 PG는 동료 1명과 2명이서 2개월 만에 ₩20억 결제 구축)"
+weapon:       "Claude Code + 멀티 에이전트 (OMC) — 1인 = 5인 팀 (AI 동료 N명)"
 specialty:
   - "결제/정산 도메인 깊이 — PG 서버부터 파트너 수수료 정산까지"
   - "멀티테넌트 SaaS 설계 — 한 코드베이스로 N개 쇼핑몰"
@@ -262,7 +261,6 @@ philosophy:
 [![Portfolio](https://img.shields.io/badge/Portfolio-slecs15.cafe24.com-58A6FF?style=for-the-badge&logo=safari&logoColor=white)](https://slecs15.cafe24.com/)
 [![Email](https://img.shields.io/badge/dev.slecs@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.slecs@gmail.com)
 [![GitHub](https://img.shields.io/badge/stylish--sys-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stylish-sys)
-[![Location](https://img.shields.io/badge/Daejeon,_KR-58A6FF?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/stylish-sys)
 
 <br/>
 
