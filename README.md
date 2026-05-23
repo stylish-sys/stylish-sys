@@ -9,12 +9,12 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=22&duration=2800&pause=900&color=FF5B1F&center=true&vCenter=true&width=820&height=44&lines=Sunyong+Lee+%E2%80%94+%EC%9D%B4%EC%84%A0%EC%9A%A9;Tech+Lead+%C2%B7+Backend+%C2%B7+Infra+%C2%B7+AI;%EB%82%AE%EC%97%94+%EA%B2%B0%EC%A0%9C+%E2%82%A92%EC%A1%B0%2B%2Fday%2C+%EB%B0%A4%EC%97%94+22%EA%B0%9C+%EC%82%AC%EC%9D%B4%ED%8A%B8+%EC%9D%B8%ED%94%84%EB%9D%BC;Build+Anything+with+AI+%2B+OMC+Multi-Agent)](#)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=22&duration=2800&pause=900&color=FF5B1F&center=true&vCenter=true&width=820&height=44&lines=Sunyong+Lee+%E2%80%94+%EC%9D%B4%EC%84%A0%EC%9A%A9;Tech+Lead+%C2%B7+Backend+%C2%B7+Infra+%C2%B7+AI;%EB%82%AE%EC%97%94+%EA%B2%B0%EC%A0%9C+%E2%82%A9%EC%88%98%EC%8B%AD%EC%96%B5%2B%2Fday%2C+%EB%B0%A4%EC%97%94+22%EA%B0%9C+%EC%82%AC%EC%9D%B4%ED%8A%B8+%EC%9D%B8%ED%94%84%EB%9D%BC;Build+Anything+with+AI+%2B+OMC+Multi-Agent)](#)
 
 <br/>
 
 <!-- Key Metrics — slecs.net orange on near-black -->
-![PG](https://img.shields.io/badge/%E2%82%A92%EC%A1%B0%2B%2Fday-Payment%20Gateway-FF5B1F?style=for-the-badge&labelColor=0a0a0a)
+![PG](https://img.shields.io/badge/%E2%82%A9%EC%88%98%EC%8B%AD%EC%96%B5%2B%2Fday-Payment%20Gateway-FF5B1F?style=for-the-badge&labelColor=0a0a0a)
 ![Sites](https://img.shields.io/badge/22-Live%20Sites-FF5B1F?style=for-the-badge&labelColor=0a0a0a)
 ![KOSA](https://img.shields.io/badge/KOSA-19%2B%20Verified-FF5B1F?style=for-the-badge&labelColor=0a0a0a)
 ![Years](https://img.shields.io/badge/7%2B-Years-FF5B1F?style=for-the-badge&labelColor=0a0a0a)
@@ -58,7 +58,7 @@
 
 ### <img src="https://img.shields.io/badge/-PG-FF5B1F?style=flat-square&labelColor=0a0a0a" height="20"/> Payment Gateway
 
-**`₩2,000,000,000+ / day`**
+**`₩수십억+ / day · Production Scale`**
 
 `솔루션 기반 PG 시스템 신규 구축 사업`
 
@@ -306,7 +306,7 @@ ops:        [ admin_db ad system, cron auto-publish, tmux teams, GitHub Actions 
 <div align="center">
 
 <sub>
-  <code>Co-Founded · Solo · OSS</code> &nbsp; · &nbsp; <code>22 Live Sites</code> &nbsp; · &nbsp; <code>₩2조+/day Payment GW</code> &nbsp; · &nbsp; <code>AI Native</code>
+  <code>Co-Founded · Solo · OSS</code> &nbsp; · &nbsp; <code>22 Live Sites</code> &nbsp; · &nbsp; <code>₩수십억+/day Payment GW</code> &nbsp; · &nbsp; <code>AI Native</code>
 </sub>
 
 <br/><br/>
