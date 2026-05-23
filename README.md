@@ -9,12 +9,12 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=FF5B1F&center=true&vCenter=true&width=820&height=44&lines=Sunyong+Lee+%E2%80%94+%EC%9D%B4%EC%84%A0%EC%9A%A9;Tech+Lead+%C2%B7+Backend+%C2%B7+Infra+%C2%B7+AI;%EB%82%AE%EC%97%94+%E2%82%A92%EC%A1%B0%2B%2Fday+PG%2C+%EB%B0%A4%EC%97%94+22%EA%B0%9C+%EC%82%AC%EC%9D%B4%ED%8A%B8+%EC%9D%B8%ED%94%84%EB%9D%BC;Build+Anything+with+AI+%2B+OMC+Multi-Agent)](#)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=22&duration=2800&pause=900&color=FF5B1F&center=true&vCenter=true&width=820&height=44&lines=Sunyong+Lee+%E2%80%94+%EC%9D%B4%EC%84%A0%EC%9A%A9;Tech+Lead+%C2%B7+Backend+%C2%B7+Infra+%C2%B7+AI;%EB%82%AE%EC%97%94+%EA%B2%B0%EC%A0%9C+%E2%82%A92%EC%A1%B0%2B%2Fday%2C+%EB%B0%A4%EC%97%94+22%EA%B0%9C+%EC%82%AC%EC%9D%B4%ED%8A%B8+%EC%9D%B8%ED%94%84%EB%9D%BC;Build+Anything+with+AI+%2B+OMC+Multi-Agent)](#)
 
 <br/>
 
 <!-- Key Metrics — slecs.net orange on near-black -->
-![PG](https://img.shields.io/badge/%E2%82%A92%EC%A1%B0%2B%2Fday-Ticketnara%20PG-FF5B1F?style=for-the-badge&labelColor=0a0a0a)
+![PG](https://img.shields.io/badge/%E2%82%A92%EC%A1%B0%2B%2Fday-Payment%20Gateway-FF5B1F?style=for-the-badge&labelColor=0a0a0a)
 ![Sites](https://img.shields.io/badge/22-Live%20Sites-FF5B1F?style=for-the-badge&labelColor=0a0a0a)
 ![KOSA](https://img.shields.io/badge/KOSA-19%2B%20Verified-FF5B1F?style=for-the-badge&labelColor=0a0a0a)
 ![Years](https://img.shields.io/badge/7%2B-Years-FF5B1F?style=for-the-badge&labelColor=0a0a0a)
@@ -33,7 +33,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/stylish-sys/stylish-sys/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake"/>
+  <img src="https://raw.githubusercontent.com/stylish-sys/stylish-sys/output/github-snake-dark.svg" width="100%" alt="snake"/>
 </div>
 
 <br/>
@@ -52,7 +52,7 @@
 <tr>
 <td width="33%" valign="top">
 
-### <img src="https://img.shields.io/badge/-PG-FF5B1F?style=flat-square&labelColor=0a0a0a" height="20"/> Ticketnara PG
+### <img src="https://img.shields.io/badge/-PG-FF5B1F?style=flat-square&labelColor=0a0a0a" height="20"/> Payment Gateway
 
 **`₩2,000,000,000+ / day`**
 
@@ -61,12 +61,12 @@
 - 2 Engineers · 2 Months · KOSA 인증
 - WAS 이중화 · 가상계좌·카드 결제
 - 멀티계층 파트너 수수료 정산
-- 웰컴페이먼츠 4종 청구 회계 분리
+- PG사 4종 청구 회계 분리
 
 </td>
 <td width="33%" valign="top">
 
-### <img src="https://img.shields.io/badge/-SaaS-FF5B1F?style=flat-square&labelColor=0a0a0a" height="20"/> PAYROK
+### <img src="https://img.shields.io/badge/-SaaS-FF5B1F?style=flat-square&labelColor=0a0a0a" height="20"/> Payment SaaS
 
 **`1.5 years · Solo Lead`**
 
@@ -80,7 +80,7 @@
 </td>
 <td width="33%" valign="top">
 
-### <img src="https://img.shields.io/badge/-Live-FF5B1F?style=flat-square&labelColor=0a0a0a" height="20"/> Onthemall
+### <img src="https://img.shields.io/badge/-Live-FF5B1F?style=flat-square&labelColor=0a0a0a" height="20"/> E-commerce Platform
 
 **`In Production · Commerce`**
 
@@ -101,19 +101,21 @@
 <!--   2) Personal Stack — 개인 운영 자산                            -->
 <!-- ============================================================== -->
 
-## <img src="https://img.shields.io/badge/02-NIGHT-FF5B1F?style=flat-square&labelColor=0a0a0a" height="22"/> &nbsp; Personal — `1인 = N개 서비스`
+## <img src="https://img.shields.io/badge/02-NIGHT-FF5B1F?style=flat-square&labelColor=0a0a0a" height="22"/> &nbsp; Co-Founded · Solo · OSS
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### <img src="https://img.shields.io/badge/-Infra-FF5B1F?style=flat-square&labelColor=0a0a0a" height="20"/> hedvion.com
+### <img src="https://img.shields.io/badge/-Co--Founded-A87340?style=flat-square&labelColor=0a0a0a" height="20"/> hedvion.com
 
 **`22 Live Sites · 1 VPS`**
 
+`Co-Founded with team` <sub>(공동창업)</sub>
+
 - iwinv 2vCPU·2GB 한 대로 22개 서브도메인
 - Cloudflare wildcard · Nginx
-- Docker MySQL + Redis · admin_db 광고 시스템
+- Docker MySQL + Redis · admin_db 광고
 - AI 자동 발행 봇 10+ cron
 
 [→ www.hedvion.com](https://www.hedvion.com/)
@@ -162,7 +164,7 @@
 
 ## <img src="https://img.shields.io/badge/03-GRID-FF5B1F?style=flat-square&labelColor=0a0a0a" height="22"/> &nbsp; Live Sites — `22 in Production`
 
-<sub>iwinv 단일 VPS (2vCPU·2GB) + cafe24 한 대. 모두 본인 1인 운영. 광고 슬롯은 <code>admin_db.cms_ad_unit</code> 단일 진실 소스.</sub>
+<sub>iwinv 단일 VPS (2vCPU·2GB) + cafe24 한 대. hedvion.com 은 공동창업 운영, slecs.net 은 개인 운영. 광고 슬롯은 <code>admin_db.cms_ad_unit</code> 단일 진실 소스.</sub>
 
 <br/>
 
@@ -259,8 +261,8 @@ ops:        [ admin_db ad system, cron auto-publish, tmux teams, GitHub Actions 
 <tr><td width="22%" align="left"><b>🏢 Companies</b></td><td>(주)코*** <code>2024.04 ~ 현재</code> · 케*** <code>2020.02 ~ 2023.01</code></td></tr>
 <tr><td><b>📜 KOSA 인증</b></td><td>SW기술자 경력 <b>19+ 프로젝트</b> 정부 검증 (한국소프트웨어산업협회)</td></tr>
 <tr><td><b>🎓 학력</b></td><td>한라대학교 컴퓨터공학과 학사</td></tr>
-<tr><td><b>🏆 대표 사업</b></td><td>Ticketnara PG · PAYROK SaaS · Onthemall · NTIS · 학교통합홈페이지 · 대구교육정보 · 전자상거래 플랫폼</td></tr>
-<tr><td><b>🌐 Solo Infra</b></td><td>hedvion.com 22 Live Sites · OMC OSS · slecs.net</td></tr>
+<tr><td><b>🏆 대표 사업</b></td><td>Payment Gateway · Payment SaaS · E-commerce · NTIS · 학교통합홈페이지 · 대구교육정보 · 전자상거래 플랫폼</td></tr>
+<tr><td><b>🌐 Co-Founded / OSS / Solo</b></td><td>hedvion.com (Co-Founded · 22 Live Sites) · OMC (OSS) · slecs.net (Solo)</td></tr>
 </table>
 
 <br/>
@@ -300,7 +302,7 @@ ops:        [ admin_db ad system, cron auto-publish, tmux teams, GitHub Actions 
 <div align="center">
 
 <sub>
-  <code>1인 운영</code> &nbsp; · &nbsp; <code>22 Live Sites</code> &nbsp; · &nbsp; <code>₩2조+/day PG</code> &nbsp; · &nbsp; <code>AI Native</code>
+  <code>Co-Founded · Solo · OSS</code> &nbsp; · &nbsp; <code>22 Live Sites</code> &nbsp; · &nbsp; <code>₩2조+/day Payment GW</code> &nbsp; · &nbsp; <code>AI Native</code>
 </sub>
 
 <br/><br/>
