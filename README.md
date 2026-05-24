@@ -283,7 +283,7 @@ ops:        [ admin_db ad system, cron auto-publish, tmux teams, GitHub Actions 
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=stylish-sys&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0a0a0a&title_color=FF5B1F&icon_color=FF5B1F&text_color=f5f5f5&ring_color=FF5B1F" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=stylish-sys&theme=github_dark" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=stylish-sys&hide_border=true&background=0a0a0a&ring=FF5B1F&fire=FF5B1F&currStreakLabel=FF5B1F&sideLabels=f5f5f5&dates=888888&stroke=1f1f1f&currStreakNum=f5f5f5&sideNums=f5f5f5" />
 
 <br/><br/>
@@ -292,7 +292,7 @@ ops:        [ admin_db ad system, cron auto-publish, tmux teams, GitHub Actions 
 
 <br/><br/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stylish-sys&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=FF5B1F&text_color=f5f5f5&langs_count=10&exclude_repo=HowAboutPotato-,note,homepage,test" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=stylish-sys&theme=github_dark" />
 <img width="48%" src="https://github-profile-trophy.vercel.app/?username=stylish-sys&theme=matrix&no-frame=true&no-bg=true&margin-w=6&row=2&column=4" />
 
 </div>
