@@ -2,6 +2,8 @@
 <!--   stylish-sys · Sunyong Lee · 이선용                          -->
 <!--   Tone: slecs.net dark minimal — #0a0a0a base, #ff5b1f accent -->
 <!--   Rule: NO fixed-width <table> cards (mobile breaks). 100% imgs only. -->
+<!--   Width fix: GitHub forces table{width:max-content}, so width="%" is -->
+<!--   ignored. Transparent 1px spacer <img> in <th> pins column widths.  -->
 <!-- ============================================================== -->
 
 <a href="https://slecs.net">
@@ -30,9 +32,9 @@
 
 <table width="100%">
 <tr>
-<th width="33%">Payment Gateway</th>
-<th width="33%">Payment SaaS</th>
-<th width="34%">E-Commerce</th>
+<th width="33%">Payment Gateway<br/><img width="290" height="1" src="https://placehold.co/290x1/transparent/transparent.png" alt=""/></th>
+<th width="33%">Payment SaaS<br/><img width="290" height="1" src="https://placehold.co/290x1/transparent/transparent.png" alt=""/></th>
+<th width="34%">E-Commerce<br/><img width="290" height="1" src="https://placehold.co/290x1/transparent/transparent.png" alt=""/></th>
 </tr>
 <tr>
 <td align="center"><code>₩수십억+/day</code></td>
@@ -52,9 +54,9 @@
 
 <table width="100%">
 <tr>
-<th width="33%">hedvion.com</th>
-<th width="33%">OMC</th>
-<th width="34%">slecs.net</th>
+<th width="33%">hedvion.com<br/><img width="290" height="1" src="https://placehold.co/290x1/transparent/transparent.png" alt=""/></th>
+<th width="33%">OMC<br/><img width="290" height="1" src="https://placehold.co/290x1/transparent/transparent.png" alt=""/></th>
+<th width="34%">slecs.net<br/><img width="290" height="1" src="https://placehold.co/290x1/transparent/transparent.png" alt=""/></th>
 </tr>
 <tr>
 <td align="center"><code>Co-Founded</code></td>
@@ -84,7 +86,7 @@
 <br/>
 
 <table width="100%">
-<tr><th width="60%">Site</th><th width="40%">Stack</th></tr>
+<tr><th width="60%">Site<br/><img width="540" height="1" src="https://placehold.co/540x1/transparent/transparent.png" alt=""/></th><th width="40%">Stack<br/><img width="340" height="1" src="https://placehold.co/340x1/transparent/transparent.png" alt=""/></th></tr>
 <tr><td><a href="https://www.hedvion.com/">hedvion.com</a> · 스튜디오 메인</td><td>Static</td></tr>
 <tr><td><a href="https://blog.hedvion.com/">blog.hedvion.com</a> · 테크 블로그</td><td>Astro · daily</td></tr>
 <tr><td><a href="https://raw.hedvion.com/">raw.hedvion.com</a> · 열린교육원</td><td>Spring Boot</td></tr>
@@ -106,7 +108,7 @@
 ### &nbsp;📜&nbsp; Career
 
 <table width="100%">
-<tr><td width="22%"><b>Companies</b></td><td>(주)코*** <code>2024.04~</code> · 케*** <code>2020.02~2023.01</code></td></tr>
+<tr><td width="22%"><b>Companies</b><br/><img width="190" height="1" src="https://placehold.co/190x1/transparent/transparent.png" alt=""/></td><td>(주)코*** <code>2024.04~</code> · 케*** <code>2020.02~2023.01</code><br/><img width="690" height="1" src="https://placehold.co/690x1/transparent/transparent.png" alt=""/></td></tr>
 <tr><td><b>KOSA 인증</b></td><td>SW기술자 경력 19+ 프로젝트 정부 검증</td></tr>
 <tr><td><b>학력</b></td><td>한라대학교 컴퓨터공학과 학사</td></tr>
 <tr><td><b>대표 사업</b></td><td>Payment GW · Payment SaaS · E-Commerce · NTIS · 학교통합홈페이지</td></tr>
