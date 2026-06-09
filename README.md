@@ -91,12 +91,9 @@
 
 <br/>
 
-<div align="center">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=stylish-sys&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=FF5B1F&icon_color=FF5B1F&text_color=f5f5f5&ring_color=FF5B1F" alt="stats"/>
 
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=stylish-sys&theme=github_dark" alt="stats"/>
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=stylish-sys&hide_border=true&background=0a0a0a&ring=FF5B1F&fire=FF5B1F&currStreakLabel=FF5B1F&sideLabels=f5f5f5&dates=888888&stroke=1f1f1f&currStreakNum=f5f5f5&sideNums=f5f5f5" alt="streak"/>
-
-</div>
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=stylish-sys&hide_border=true&background=0a0a0a&ring=FF5B1F&fire=FF5B1F&currStreakLabel=FF5B1F&sideLabels=f5f5f5&dates=888888&stroke=1f1f1f&currStreakNum=f5f5f5&sideNums=f5f5f5" alt="streak"/>
 
 <br/>
 
