@@ -28,23 +28,45 @@
 
 ### &nbsp;💼&nbsp; Featured Work
 
-| Payment Gateway | Payment SaaS | E-Commerce |
-| :-- | :-- | :-- |
-| `₩수십억+/day` | `1.5y · Solo Lead` | `Live · Commerce` |
-| 솔루션 기반 PG 신규 구축 | 간편결제 플랫폼 SaaS | 라이브 커머스 운영 |
-| WAS 이중화 · 정산 | 관리자 전면 개편 | Spring · MariaDB |
-| KOSA 인증 | Multi-tenant 결제 | NCloud · Redis |
+<table width="100%">
+<tr>
+<th width="33%">Payment Gateway</th>
+<th width="33%">Payment SaaS</th>
+<th width="34%">E-Commerce</th>
+</tr>
+<tr>
+<td align="center"><code>₩수십억+/day</code></td>
+<td align="center"><code>1.5y · Solo Lead</code></td>
+<td align="center"><code>Live · Commerce</code></td>
+</tr>
+<tr>
+<td>솔루션 기반 PG 신규 구축<br/>WAS 이중화 · 정산<br/>KOSA 인증</td>
+<td>간편결제 플랫폼 SaaS<br/>관리자 전면 개편<br/>Multi-tenant 결제</td>
+<td>라이브 커머스 운영<br/>Spring · MariaDB<br/>NCloud · Redis</td>
+</tr>
+</table>
 
 <br/>
 
 ### &nbsp;🌙&nbsp; Co-Founded · Solo · OSS
 
-| hedvion.com | OMC | slecs.net |
-| :-- | :-- | :-- |
-| `Co-Founded` | `OSS · Claude Code` | `Solo` |
-| 22 사이트 / 1 VPS | 멀티에이전트 오케스트레이션 | 다크 미니멀 포폴 |
-| Cloudflare · Docker | 20+ sub-agents | three.js + FastAPI |
-| AI 자동발행 봇 10+ | `1인 = 5인 팀` | Threads 봇 cron |
+<table width="100%">
+<tr>
+<th width="33%">hedvion.com</th>
+<th width="33%">OMC</th>
+<th width="34%">slecs.net</th>
+</tr>
+<tr>
+<td align="center"><code>Co-Founded</code></td>
+<td align="center"><code>OSS · Claude Code</code></td>
+<td align="center"><code>Solo</code></td>
+</tr>
+<tr>
+<td>22 사이트 / 1 VPS<br/>Cloudflare · Docker<br/>AI 자동발행 봇 10+</td>
+<td>멀티에이전트 오케스트레이션<br/>20+ sub-agents<br/><code>1인 = 5인 팀</code></td>
+<td>다크 미니멀 포폴<br/>three.js + FastAPI<br/>Threads 봇 cron</td>
+</tr>
+</table>
 
 <br/>
 
@@ -61,20 +83,21 @@
 
 <br/>
 
-| Site | Stack |
-| :-- | :-- |
-| [hedvion.com](https://www.hedvion.com/) · 스튜디오 메인 | Static |
-| [blog.hedvion.com](https://blog.hedvion.com/) · 테크 블로그 | Astro · daily |
-| [raw.hedvion.com](https://raw.hedvion.com/) · 열린교육원 | Spring Boot |
-| [insightflow.hedvion.com](https://insightflow.hedvion.com/) · 데이터 인사이트 | Next.js |
-| [ssul](https://ssul.hedvion.com/) · [money](https://money.hedvion.com/) · [insurance](https://insurance.hedvion.com/) · [gov](https://gov.hedvion.com/) | Astro SSR + AI 봇 |
-| [lotto](https://lotto.hedvion.com/) · [funeral](https://funeral.hedvion.com/) · [diet](https://diet.hedvion.com/) · [pet](https://pet.hedvion.com/) | Astro SSR + 봇 |
-| [job](https://job.hedvion.com/) · [psy](https://psy.hedvion.com/) · [unse](https://unse.hedvion.com/) | 계산기 · OpenAI |
-| [bible](https://bible.hedvion.com/) · [daily-bible](https://daily-bible.hedvion.com/) | Spring + Flutter |
-| [game.hedvion.com](https://game.hedvion.com/) · 게임허브 | Static |
-| [blog](https://blog.werebridge.com/) · [profile](https://profile.werebridge.com/).werebridge | Astro |
-| [slecs.net](https://slecs.net/) · 개인 포폴 | three.js (cafe24) |
-| [blog.slecs.net](https://blog.slecs.net/) · 테크 블로그 | FastAPI · MariaDB |
+<table width="100%">
+<tr><th width="60%">Site</th><th width="40%">Stack</th></tr>
+<tr><td><a href="https://www.hedvion.com/">hedvion.com</a> · 스튜디오 메인</td><td>Static</td></tr>
+<tr><td><a href="https://blog.hedvion.com/">blog.hedvion.com</a> · 테크 블로그</td><td>Astro · daily</td></tr>
+<tr><td><a href="https://raw.hedvion.com/">raw.hedvion.com</a> · 열린교육원</td><td>Spring Boot</td></tr>
+<tr><td><a href="https://insightflow.hedvion.com/">insightflow.hedvion.com</a> · 데이터 인사이트</td><td>Next.js</td></tr>
+<tr><td><a href="https://ssul.hedvion.com/">ssul</a> · <a href="https://money.hedvion.com/">money</a> · <a href="https://insurance.hedvion.com/">insurance</a> · <a href="https://gov.hedvion.com/">gov</a></td><td>Astro SSR + AI 봇</td></tr>
+<tr><td><a href="https://lotto.hedvion.com/">lotto</a> · <a href="https://funeral.hedvion.com/">funeral</a> · <a href="https://diet.hedvion.com/">diet</a> · <a href="https://pet.hedvion.com/">pet</a></td><td>Astro SSR + 봇</td></tr>
+<tr><td><a href="https://job.hedvion.com/">job</a> · <a href="https://psy.hedvion.com/">psy</a> · <a href="https://unse.hedvion.com/">unse</a></td><td>계산기 · OpenAI</td></tr>
+<tr><td><a href="https://bible.hedvion.com/">bible</a> · <a href="https://daily-bible.hedvion.com/">daily-bible</a></td><td>Spring + Flutter</td></tr>
+<tr><td><a href="https://game.hedvion.com/">game.hedvion.com</a> · 게임허브</td><td>Static</td></tr>
+<tr><td><a href="https://blog.werebridge.com/">blog</a> · <a href="https://profile.werebridge.com/">profile</a>.werebridge</td><td>Astro</td></tr>
+<tr><td><a href="https://slecs.net/">slecs.net</a> · 개인 포폴</td><td>three.js (cafe24)</td></tr>
+<tr><td><a href="https://blog.slecs.net/">blog.slecs.net</a> · 테크 블로그</td><td>FastAPI · MariaDB</td></tr>
+</table>
 
 </details>
 
@@ -82,12 +105,12 @@
 
 ### &nbsp;📜&nbsp; Career
 
-| | |
-| :-- | :-- |
-| **Companies** | (주)코\*\*\* `2024.04~` · 케\*\*\* `2020.02~2023.01` |
-| **KOSA 인증** | SW기술자 경력 19+ 프로젝트 정부 검증 |
-| **학력** | 한라대학교 컴퓨터공학과 학사 |
-| **대표 사업** | Payment GW · Payment SaaS · E-Commerce · NTIS · 학교통합홈페이지 |
+<table width="100%">
+<tr><td width="22%"><b>Companies</b></td><td>(주)코*** <code>2024.04~</code> · 케*** <code>2020.02~2023.01</code></td></tr>
+<tr><td><b>KOSA 인증</b></td><td>SW기술자 경력 19+ 프로젝트 정부 검증</td></tr>
+<tr><td><b>학력</b></td><td>한라대학교 컴퓨터공학과 학사</td></tr>
+<tr><td><b>대표 사업</b></td><td>Payment GW · Payment SaaS · E-Commerce · NTIS · 학교통합홈페이지</td></tr>
+</table>
 
 <br/>
 
