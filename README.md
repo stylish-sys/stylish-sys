@@ -117,8 +117,6 @@
 <tr><td><a href="https://vtuberprofile.com/">vtuberprofile.com</a> · VTuber Profile</td><td>Astro SSR · YouTube API</td></tr>
 <tr><td><a href="https://blindboxdex.com/">blindboxdex.com</a> · BlindBoxDex</td><td>Astro SSR · MySQL · Playwright</td></tr>
 <tr><td><a href="https://kfoodlab.com/">kfoodlab.com</a> · KFoodLab</td><td>Astro SSG · AdSense</td></tr>
-<tr><td><a href="https://sportglance.com/">sportglance.com</a> · SportGlance</td><td>Node SSR · API-Sports</td></tr>
-<tr><td><a href="https://portfolio.hedvion.com/">portfolio.hedvion.com</a> · 제품 쇼케이스</td><td>정적 · 썸네일 쇼케이스</td></tr>
 <tr><td><a href="https://saju.opsvoro.com/">saju.opsvoro.com</a> · AI 사주 (영어권)</td><td>Next.js · lunar-typescript · Polar</td></tr>
 <tr><td><a href="https://www.opsvoro.com/">www.opsvoro.com</a> · opsvoro</td><td>Astro SSR · 봇</td></tr>
 <tr><td><a href="https://mingsblog.hedvion.com/">mingsblog.hedvion.com</a> · mings notes</td><td>Astro SSR · cron</td></tr>
@@ -126,6 +124,8 @@
 <tr><td><a href="https://www.hedvion.com/pilmori/">pilmori.app</a> · 필모리</td><td>Swift · Core Image · Metal</td></tr>
 <tr><td><a href="https://slecs.net/">slecs.net</a> · slecs 포폴</td><td>three.js · cafe24</td></tr>
 <tr><td><a href="https://blog.slecs.net/">blog.slecs.net</a> · slecs 블로그</td><td>FastAPI · MariaDB</td></tr>
+<tr><td><a href="https://sportglance.com/">sportglance.com</a> · SportGlance</td><td>Node SSR · 14 languages · AdSense</td></tr>
+<tr><td><a href="https://portfolio.hedvion.com/">portfolio.hedvion.com</a> · 제품 쇼케이스</td><td>정적 · 썸네일 쇼케이스</td></tr>
 <!-- SITES:AUTO:END -->
 </table>
 
