@@ -15,7 +15,7 @@
 [![Typing](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=20&duration=2800&pause=900&color=FF5B1F&center=true&vCenter=true&width=480&height=40&lines=Sunyong+Lee+%E2%80%94+%EC%9D%B4%EC%84%A0%EC%9A%A9;Tech+Lead+%C2%B7+Backend+%C2%B7+Infra+%C2%B7+AI;Build+Anything+with+AI)](#)
 
 ![PG](https://img.shields.io/badge/%E2%82%A9%EC%88%98%EC%8B%AD%EC%96%B5%2B%2Fday-Payment%20GW-FF5B1F?style=flat-square&labelColor=0a0a0a)
-![Sites](https://img.shields.io/badge/38-Live%20Sites-FF5B1F?style=flat-square&labelColor=0a0a0a)
+![Sites](https://img.shields.io/badge/39-Live%20Sites-FF5B1F?style=flat-square&labelColor=0a0a0a)
 ![KOSA](https://img.shields.io/badge/KOSA-19%2B-FF5B1F?style=flat-square&labelColor=0a0a0a)
 ![Years](https://img.shields.io/badge/7%2B-Years-FF5B1F?style=flat-square&labelColor=0a0a0a)
 
@@ -64,7 +64,7 @@
 <td align="center"><code>Solo</code></td>
 </tr>
 <tr>
-<td>35 사이트 / 1 VPS<br/>Cloudflare · Docker<br/>AI 자동발행 봇 10+</td>
+<td>36 사이트 / 1 VPS<br/>Cloudflare · Docker<br/>AI 자동발행 봇 10+</td>
 <td>멀티에이전트 오케스트레이션<br/>20+ sub-agents<br/><code>1인 = 5인 팀</code></td>
 <td>다크 미니멀 포폴<br/>three.js + FastAPI<br/>Threads 봇 cron</td>
 </tr>
@@ -81,7 +81,7 @@
 <br/>
 
 <details>
-<summary>&nbsp;🌐&nbsp; <b>38 Live Sites</b> — iwinv 단일 VPS(2vCPU·2GB) + cafe24 · <i>펼쳐보기</i></summary>
+<summary>&nbsp;🌐&nbsp; <b>39 Live Sites</b> — iwinv 단일 VPS(2vCPU·2GB) + cafe24 · <i>펼쳐보기</i></summary>
 
 <br/>
 
@@ -125,6 +125,7 @@
 <tr><td><a href="https://slecs.net/">slecs.net</a> · slecs 포폴</td><td>three.js · cafe24</td></tr>
 <tr><td><a href="https://blog.slecs.net/">blog.slecs.net</a> · slecs 블로그</td><td>FastAPI · MariaDB</td></tr>
 <tr><td><a href="https://sportglance.com/">sportglance.com</a> · SportGlance</td><td>Node SSR · 14 languages · AdSense</td></tr>
+<tr><td><a href="https://gamehotdeals.com/">gamehotdeals.com</a> · GameHotDeals</td><td>Astro SSR · 12 languages · AdSense</td></tr>
 <tr><td><a href="https://portfolio.hedvion.com/">portfolio.hedvion.com</a> · 제품 쇼케이스</td><td>정적 · 썸네일 쇼케이스</td></tr>
 <!-- SITES:AUTO:END -->
 </table>
