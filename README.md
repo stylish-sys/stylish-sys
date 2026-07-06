@@ -147,9 +147,14 @@
 
 <br/>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=stylish-sys&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=FF5B1F&icon_color=FF5B1F&text_color=f5f5f5&ring_color=FF5B1F" alt="stats"/>
+<!-- 동적 stat/streak 카드는 외부 렌더 서비스(vercel/heroku) 정지로 엑박 상습 → 정적 shields 뱃지로 대체 (2026-07-06) -->
+<div align="center">
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=stylish-sys&hide_border=true&background=0a0a0a&ring=FF5B1F&fire=FF5B1F&currStreakLabel=FF5B1F&sideLabels=f5f5f5&dates=888888&stroke=1f1f1f&currStreakNum=f5f5f5&sideNums=f5f5f5" alt="streak"/>
+[![Followers](https://img.shields.io/github/followers/stylish-sys?style=flat-square&labelColor=0a0a0a&color=FF5B1F&logo=github&logoColor=white)](https://github.com/stylish-sys)
+![Since](https://img.shields.io/badge/Since-2019-FF5B1F?style=flat-square&labelColor=0a0a0a)
+![Focus](https://img.shields.io/badge/Focus-Backend%20%C2%B7%20Payments%20%C2%B7%20Infra%20%C2%B7%20AI-FF5B1F?style=flat-square&labelColor=0a0a0a)
+
+</div>
 
 <br/>
 
