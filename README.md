@@ -20,7 +20,7 @@
 
 ## What I Build
 
-| 분야 <img src="assets/spacer.svg" width="135" height="1" alt=""> | 하는 일 <img src="assets/spacer.svg" width="553" height="1" alt=""> |
+| 분야 <img src="assets/spacer.svg" width="135" height="1" alt=""> | 하는 일 <img src="assets/spacer.svg" width="584" height="1" alt=""> |
 | :-- | :-- |
 | **Payments**<br><code>Backend · Infra</code> | 결제 시스템 설계·구축, WAS 이중화, 정산 파이프라인, 보안·감사 대응 |
 | **SaaS**<br><code>Multi-tenant</code> | 결제 플랫폼 SaaS, 관리자 콘솔 개편, 멀티테넌트 아키텍처 |
@@ -28,7 +28,7 @@
 
 ## Side Projects · OSS
 
-| 분야 <img src="assets/spacer.svg" width="135" height="1" alt=""> | 하는 일 <img src="assets/spacer.svg" width="553" height="1" alt=""> |
+| 분야 <img src="assets/spacer.svg" width="135" height="1" alt=""> | 하는 일 <img src="assets/spacer.svg" width="584" height="1" alt=""> |
 | :-- | :-- |
 | **Multi-site Ops**<br><code>Solo</code> | 수십 개 서비스를 단일 VPS에서 운영 (Cloudflare, Docker, Astro, Next.js, FastAPI) |
 | **AI Agents**<br><code>OSS · Claude Code</code> | 멀티에이전트 오케스트레이션, sub-agent 워크플로. 1인 = 5인 팀 |
@@ -43,7 +43,7 @@
 
 ## Focus
 
-| 항목 <img src="assets/spacer.svg" width="135" height="1" alt=""> | 내용 <img src="assets/spacer.svg" width="571" height="1" alt=""> |
+| 항목 <img src="assets/spacer.svg" width="135" height="1" alt=""> | 내용 <img src="assets/spacer.svg" width="599" height="1" alt=""> |
 | :-- | :-- |
 | **Domains** | Payments, Commerce, SaaS, Public/Education Web |
 | **Roles** | Backend, Infra, DevOps Automation, AI Integration |
