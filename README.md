@@ -9,13 +9,13 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/7%2B-Years-FF5B1F?style=flat-square&labelColor=0a0a0a" alt="7+ Years">
-  <img src="https://img.shields.io/badge/Since-2019-FF5B1F?style=flat-square&labelColor=0a0a0a" alt="Since 2019">
   <a href="https://github.com/stylish-sys"><img src="https://img.shields.io/github/followers/stylish-sys?style=flat-square&labelColor=0a0a0a&color=FF5B1F&logo=github&logoColor=white" alt="Followers"></a>
 </p>
 
 <p align="center">
   결제, 커머스, SaaS 서비스를 만들고 운영합니다.<br>
-  설계부터 구축, 운영, 자동화까지 혼자 끝까지 맡습니다.
+  설계부터 구축, 운영, 자동화까지 혼자 끝까지 맡습니다.<br>
+  작업은 대부분 비공개 저장소에서 합니다.
 </p>
 
 ## What I Build
