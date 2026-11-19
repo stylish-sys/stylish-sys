@@ -1,7 +1,11 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" width="100%" alt="stylish-sys · Backend · Payments · Infra · AI Native">
-</picture>
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+    <img src="assets/header-light.svg" width="100%" alt="stylish-sys · Backend · Payments · Infra · AI Native">
+  </picture>
+</p>
+
+<br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/7%2B-Years-FF5B1F?style=flat-square&labelColor=0a0a0a" alt="7+ Years">
