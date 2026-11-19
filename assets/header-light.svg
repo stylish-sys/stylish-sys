@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-label="stylish-sys, Backend, Payments, Infra, AI Native">
+  <rect x="1" y="1" width="1198" height="298" rx="20" fill="#fafafa" stroke="#e5e5e5" stroke-width="2"/>
+  <g font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+    <text x="72" y="98" font-size="19" font-weight="700" letter-spacing="5" fill="#ff5b1f">TECH LEAD · SINCE 2019</text>
+    <text x="68" y="182" font-size="88" font-weight="800" letter-spacing="-2.5" fill="#0a0a0a">stylish-sys</text>
+    <text x="72" y="232" font-size="27" font-weight="500" fill="#525252">Backend · Payments · Infra · AI Native</text>
+  </g>
+  <rect x="72" y="258" width="96" height="5" rx="2.5" fill="#ff5b1f"/>
+  <g fill="none" stroke="#d4d4d4" stroke-width="2">
+    <rect x="924" y="66" width="36" height="36" rx="6"/><rect x="972" y="66" width="36" height="36" rx="6"/><rect x="1068" y="66" width="36" height="36" rx="6"/>
+    <rect x="924" y="114" width="36" height="36" rx="6"/><rect x="1020" y="114" width="36" height="36" rx="6"/><rect x="1068" y="114" width="36" height="36" rx="6"/>
+    <rect x="972" y="162" width="36" height="36" rx="6"/><rect x="1020" y="162" width="36" height="36" rx="6"/>
+    <rect x="924" y="210" width="36" height="36" rx="6"/><rect x="972" y="210" width="36" height="36" rx="6"/><rect x="1068" y="210" width="36" height="36" rx="6"/>
+  </g>
+  <g fill="#ff5b1f">
+    <rect x="1020" y="66" width="36" height="36" rx="6"/><rect x="972" y="114" width="36" height="36" rx="6"/>
+    <rect x="924" y="162" width="36" height="36" rx="6"/><rect x="1068" y="162" width="36" height="36" rx="6"/>
+    <rect x="1020" y="210" width="36" height="36" rx="6"/>
+  </g>
+</svg>
